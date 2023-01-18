@@ -29,6 +29,6 @@ With the historical dataset provided by Alphabet Soup including organizations re
 ![Image](https://github.com/jilldvn/Neural_Network_Charity_Analysis/blob/main/images/2nd%20optimization%20attempt.png)</br>
   **3. Third Attempt**</br>
 ![Image](https://github.com/jilldvn/Neural_Network_Charity_Analysis/blob/main/images/3rd%20optimization%20attempt.png)</br>
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Summary:
 Unfortunately, after all three additional attempts, it is found to achive over 74% of accuracy after the 3rd trained model, there is though no model able to achieve 75% of accuracy. It is recommended to still activate with "Relu" due to this activation model is reliable to be trained faster than others. Another thought to improve the model is that it may be benefitial to also increase Epoches when testing the model. The other recommendation is to increase numbers of denses and units to fill the potential gaps, below image is showing a proposed model using Tensorflow playground </br>
 ![Image](https://github.com/jilldvn/Neural_Network_Charity_Analysis/blob/main/images/NN%20model%20playground.png)
